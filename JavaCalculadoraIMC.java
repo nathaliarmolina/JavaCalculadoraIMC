@@ -38,6 +38,7 @@ public class JavaCalculadoraIMC implements ActionListener{
 		frame.setSize(650, 450); // size
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // closing method
 		frame.setLayout(null); // no layout type
+		frame.setResizable(false); // disable frame resize
 		frame.setLocationRelativeTo(null); // centralize program
 		
 		// Panel Settings
