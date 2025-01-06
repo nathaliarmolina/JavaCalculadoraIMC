@@ -8,3 +8,6 @@ Uma calculadora de IMC feita em Java, utilizando a biblioteca swing
 ### Rode o JavaCalculadoraIMC em seu computador sem necessidade de instalação! Você apenas precisa ter o Java instalado
 
 https://github.com/nathaliarmolina/JavaCalculadoraIMC/blob/main/JavaCalculadoraIMC.jar
+
+## Download Java
+https://www.java.com/pt-BR/download/manual.jsp
